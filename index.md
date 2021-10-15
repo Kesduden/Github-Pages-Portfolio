@@ -11,6 +11,7 @@
     <a href="https://www.freecodecamp.org/kesdude" target=_blank> Freecodecamp Profile </a>
     <a href="#projects"> Projects </a>
     </nav>
-    <section class="project" id="projects">JavaScript Projects</section>
+    <h2 id="projects">Projects</h2>
+    <section class="project">JavaScript:</section>
   </body>
 </html>
