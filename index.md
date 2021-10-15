@@ -12,6 +12,13 @@
     <a href="#projects"> Projects </a>
     </nav>
     <h2 id="projects">Projects</h2>
-    <section class="project">JavaScript:</section>
+    <section class="project" id="html">HTML and basic CSS:
+    <ul>
+    <a href="https://codepen.io/John3-16/pen/ZEyvYPb" target="_blank"> Survey form for Data Collection </a>
+    </br>
+    <a href=https://codepen.io/John3-16/pen/RwgMbVQ?editors=1111>Brief Technical Documentation (not mobile friendly)</a>
+    </ul>
+    </section>
+    <section class="project" id="js">JavaScript:</section>
   </body>
 </html>
