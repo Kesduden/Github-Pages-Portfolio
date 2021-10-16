@@ -15,7 +15,7 @@
     <section class="project" id="html-and-css">HTML and basic CSS:
     <ul>
     <li><a href="https://codepen.io/John3-16/pen/ZEyvYPb" target=_blank> Survey form for Data Collection (Doesn't submit since no JavaScript is used) </a></li>
-    <li><a href=https://codepen.io/John3-16/pen/RwgMbVQ?editors=1111 target=_blank>Brief Technical Documentation (not mobile friendly) </a> </li>
+    <!--<li><a href=https://codepen.io//your-work/John3-16/pen/RwgMbVQ?editors=1111 target=_blank>Brief Technical Documentation (not mobile friendly) </a> </li>-->
     </ul>
     </section>
     <section class="project" id="js">JavaScript:</section>
