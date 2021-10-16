@@ -12,7 +12,7 @@
     <a href="https://github.com/Kesduden" target=_blank> My GitHub Profile</a>
     <!--<a href="#projects"> Projects </a>-->
     </nav>
-    <h2 id="projects">Projects</h2>
+    <h2 id="projects">Featured Projects</h2>
     <section class="project" id="html-and-css">HTML and basic CSS:
     <ul>
     <li><a href="https://codepen.io/John3-16/pen/ZEyvYPb" target=_blank> Survey form for Data Collection (Doesn't submit since no JavaScript is used) </a></li>
