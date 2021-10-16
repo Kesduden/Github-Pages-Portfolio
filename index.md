@@ -9,7 +9,7 @@
     <h1>Welcome to Kesinth's Personal Portfolio filled with useful and fun projects.</h1>
     <nav>
     <a href="https://www.freecodecamp.org/kesdude" target=_blank> Freecodecamp Profile </a>
-    <a href="#projects"> Projects </a>
+    <!--<a href="#projects"> Projects </a>-->
     </nav>
     <h2 id="projects">Projects</h2>
     <section class="project" id="html-and-css">HTML and basic CSS:
